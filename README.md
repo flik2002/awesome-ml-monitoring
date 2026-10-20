@@ -19,4 +19,4 @@ A curated list of awesome open source tools and commercial products for monitori
  * [ydata-quality](https://github.com/ydataai/ydata-quality): Data Quality assessment with one line of code.
  * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick): Visual analysis and diagnostic tools to facilitate machine learning model selection.
  * [Soda Core](https://github.com/sodadata/soda-core): Data profiling, testing, and monitoring for SQL accessible data.
-- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://github.com/flik2002/openclaw-monitor)
